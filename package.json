@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "A simple Express server for hosting webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrinaththube/nodejs-server.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "server"
+  ],
+  "author": "Shrinath Thube <shrinaththube@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrinaththube/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/shrinaththube/nodejs-server#readme"
+}
